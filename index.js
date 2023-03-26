@@ -1,5 +1,5 @@
 //Create two numbers and compare them. Then display the largest number.
-  let numberOne = 3;
+  let numberOne = 7;
   let numberTwo = 3;
 console.log('Between the two given numbers ' + (numberOne) + ' and ' + (numberTwo)) 
 if (numberOne > numberTwo) {
